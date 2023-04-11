@@ -28,6 +28,7 @@ jobs:
                any::plotly
                any::stringr
                any::viridis
+               any::janitor
                any::tidycensus
                any::htmltools
                any::purrr
